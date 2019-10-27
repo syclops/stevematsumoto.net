@@ -1,0 +1,28 @@
+baseurl = "https://stevematsumoto.net/"
+languageCode = "en-us"
+title = "SteveMatsumoto"
+theme = "hugo-classic"
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/post/"
+    weight = 3
+[[menu.main]]
+    name = "CV"
+    url = "/cv/"
+    weight = 3
+[[menu.feed]]
+    name = "Subscribe"
+    url = "/index.xml"
+
+[params]
+    description = "Whatever comes to mind"
+    footer = "[Site Source](https://github.com/syclops/stevematsumoto.net) | [Site Theme](https://github.com/goodroot/hugo-classic)"
+    custom_css = ["css/theme-override.css"]
