@@ -4,7 +4,7 @@ title: Home
 
 # Stephanos (Steve) Matsumoto
 
-[<img src="https://github.com/goodroot/hugo-classic/raw/master/images/partywizard.gif" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/goodroot/hugo-classic)
+<img src="profile.jpg" style="max-width:15%;min-width:40px;float:right;" alt="Profile picture" />
 
 I am an Assistant Professor of Computer Science and Engineering at the [Olin
 College of Engineering](http://www.olin.edu). I am broadly interested in
