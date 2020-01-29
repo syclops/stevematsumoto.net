@@ -18,6 +18,18 @@ footnotereturnlinkcontents = "↩"
     name = "CV"
     url = "/cv/"
     weight = 3
+[[menu.main]]
+    name = "Recommendations"
+    url = "/recommendations/"
+    weight = 3
+[[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 3
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 3
 [[menu.feed]]
     name = "Subscribe"
     url = "/index.xml"

@@ -1,8 +1,17 @@
 ---
 title: "CV"
-date: 2019-10-27T12:15:33-04:00
+date: 2020-01-29T15:11:38-05:00
 draft: false
 ---
+
+# Employment
+
+Assistant Professor of Computer Science and Engineering, Olin College of
+Engineering, September 2019 - present.
+
+Postdoctoral Researcher, Cybercrime Group, Institute of Software Engineering,
+Carnegie Mellon University, February 2019 - August 2019.  
+Supervisor: Nicolas Christin.
 
 # Education
 
@@ -134,6 +143,11 @@ Co-Instructor, MTH/SCI 1111, Modeling and Simulation of the Physical World.
 Other instructors: Erhardt Graeff, Alice Paul, Jason Woodard.  
 Olin College of Engineering, Fall 2019.
 
+Instructor, ENGR0077, Independent Study and Research in Engineering: Economic
+Incentives in Cryptocurrency.  
+Student: Enmo Ren.  
+Olin College of Engineering, Fall 2019.
+
 Co-Instructor, 08-303: Blockchains, Cryptocurrencies, and Applications.  
 Instructor: Nicolas Christin.  
 Institute for Software Research, Carnegie Mellon University, Spring 2018.
@@ -168,6 +182,38 @@ University, Spring 2013.
 
 "Tools for Security and Privacy." Stay Late and Create (SLAC), Olin College of
 Engineering, October 2019.
+
+"IKP: Turning the Web PKI Around with Decentralized Automated Incentives."
+17-303: Cryptocurrencies, Blockchains, and Applications, Carnegie Mellon
+University, April 2019.
+
+"Mining, Incentives, and Game Theory." 17-303: Cryptocurrencies, Blockchains,
+and Applications, Carnegie Mellon University, March 2019.
+
+"IKP: Turning the Web PKI Around with Decentralized Automated Incentives."
+15-827: Special Topics in Cryptography, Carnegie Mellon
+University, October 2017.
+
+"IKP: Turning the Web PKI Around with Decentralized Automated Incentives."
+08-303: Cryptocurrencies, Blockchains, and Applications, Carnegie Mellon
+University, April 2017.
+
+"REACT: Rewards and Enforceability for Augmented Certificate Transparency." IBM
+Research Zurich, June 2016.
+
+"ECO-DNS: Expected Consistency Optimization for DNS." Korea University, May
+2013.
+
+"ECO-DNS: Expected Consistency Optimization for DNS." Seoul National University,
+May 2013.
+
+# Professional Activities
+
+Member, Committee on Student Academic Performance (COSAP), Olin College of
+Engineering, Fall 2019 - present.
+
+External Reviewer, ACM International Conference on Emerging Networking
+Experiments and Technologies (CoNEXT) 2019. Reviews submitted in November 2018.
 
 
 # Awards
